@@ -1,0 +1,23 @@
+{
+  "name": "adonis-4-cloudinary",
+  "version": "1.0.1",
+  "description": "Cloudinary Service Provider for Adonis 4.0",
+  "main": "provider/Cloudinary.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/kingsinbad/adonis-4-cloudinary"
+  },
+  "keywords": [
+    "cloudinary",
+    "adonis",
+    "adonis 4.0"
+  ],
+  "dependencies": {
+    "cloudinary": "^1.9.1"
+  },
+  "author": "King Sinbad",
+  "license": "ISC"
+}
